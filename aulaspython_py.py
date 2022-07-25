@@ -22,7 +22,7 @@ a = 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 maiuscula = a.upper()
 print(maiuscula)
 
-nome = str('gabriel reis de aquino')
+nome = str('gabriel reis')
 tamanho = int(len(nome))
 capital = nome.capitalize()
 print(capital)
